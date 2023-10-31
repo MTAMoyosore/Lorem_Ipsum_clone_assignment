@@ -1,0 +1,87 @@
+<style>
+		.div {
+			width: max-width;
+			padding: 300px 200px;
+			margin: 0;
+			font-family: 'Open Sans', sans-serif;
+		}
+		#lang {
+			padding: 5px;
+			margin: 20px 15px 5px 15px;
+			font-size: 12px;
+			word-spacing: 5px;
+			clear: both;
+		}
+		h1 {
+			text-align: center;
+			font-family: serif;
+		}
+		a {
+			
+			text-align: justify;
+			font-family: sans-serif;
+			font-size: 14px;
+			line-height: 1px;
+		}
+		a:link {
+			color: black;
+		}
+		a:hover {
+			color:red ;
+		}
+		* {
+			box-sizing: border-box;
+		}
+
+		.her
+		{
+			margin: 10px 10px 5px 10px;
+			line-height: 18px;
+			font-style: italic;
+			text-align: center;
+		}
+		.her2 {
+			margin: 5px 10px 20px 10px;
+			font-size: 12px;
+			line-height: 14px;
+			text-align: center;
+		}
+		.child{
+			border: none;
+			margin: 0 10px;
+			text-align:justify;
+		}
+		.parent{
+			display: flex;
+			text-align: center,justify;
+			font-family:;
+			font-size: ;
+			margin: 0 0 10px 0;
+			padding: 0 10px;
+		}
+		#net {
+			word-spacing: 5px;
+
+		}
+		#fbody {
+			text-align: justify;
+		} 
+		#lim {
+			text-decoration: none;
+		}
+		input[type=text] {
+  			width: 40px;
+  			height: 25px;
+  			padding: 0;
+  			margin: 30px 10px;
+	 		text-align: center;
+	 		border-style: inset;
+ 		}
+ 		h1 {
+ 			font-family: Dauphin;
+ 			font-weight: 400;
+ 			
+ 		}
+
+
+	</style>
